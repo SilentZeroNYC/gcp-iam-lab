@@ -19,6 +19,7 @@ equivalent; this maps it to GCP and shows the detection side too.
 ![IAM condition](screenshots/02-condition.png)
 ![Audit log: SetIamPolicy](screenshots/03-audit-log.png)
 ![403 outside role scope](screenshots/04-denied.png)
+![Policy Analyzer output, empty Recommender result](screenshots/05-policy-analysis.png)
 
 ## Key commands
 ```bash
